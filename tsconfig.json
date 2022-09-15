@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esnext",
+    "sourceMap": true,
+    "watch": false,
+    "outDir": "dist",
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "checkJs": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "moduleResolution": "node"
+  },
+  "exclude": [],
+  "include": ["./src/**/*"]
+}
